@@ -7,14 +7,15 @@
     "react-dom": "17.0.2",
     "react-mde": "11.5.0",
     "react-split": "2.0.13",
-    "showdown": "1.9.1"
+    "@vitejs/plugin-react": "*",
+    "showdown": "1.9.1",
+    "vite": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.22.10",
     "@babel/eslint-parser": "^7.22.10",
     "@babel/plugin-syntax-jsx": "^7.22.5",
     "@babel/preset-react": "^7.22.5",
-    "@vitejs/plugin-react": "*",
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.28.0",
@@ -24,8 +25,7 @@
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
-    "stylelint-scss": "^3.21.0",
-    "vite": "latest"
+    "stylelint-scss": "^3.21.0"
   },
   "scripts": {
     "start": "vite",
