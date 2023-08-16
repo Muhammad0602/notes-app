@@ -1,23 +1,127 @@
-# co42b487d95fbd5b5c8f9c4a8
+# Meme Generator
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+<a name="readme-top"></a>
 
-Quick start:
+<div align="center">
+
+  <h3><b> Meme Generator README</b></h3>
+
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 React Project <a name="about-project"></a>
+
+The Meme Generator is a React-powered web app that enables users to easily create and customize memes by adding their own top and bottom text to images.
+
+## 🛠 Built With HTML, CSS and JS <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://github.com/">GitHub</a></li>
+  </ul>
+</details>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+<a href="https://meme-generator-t2bd.onrender.com">Live</a>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
 
 ```
-$ npm install
-$ npm start
-````
+Git
+VS Code
+Node
+```
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+### Setup
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+```
+cd my-folder
+git clone git@github.com/Muhammad0602/memes-generator.git
+cd memes-generator
+```
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+### Install
 
-Happy Coding!
+```
+npm install
+```
+
+### Usage
+
+```
+npm run build
+npm start
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Muhammad Davlatov**
+
+- GitHub: [@Muhammad0602](https://github.com/Muhammad0602)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-davlatov-6a8536254/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[Creating own design]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Muhammad0602/best-book/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Leave this project a ⭐️ if you like it.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I wanted to thank Bob Ziroll, the great React teacher.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
