@@ -50,7 +50,7 @@ Experience seamless note-taking with our React-powered app. Create, update, and 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://meme-generator-t2bd.onrender.com">Live</a>
+<a>Live</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
