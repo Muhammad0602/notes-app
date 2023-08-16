@@ -1,10 +1,10 @@
-# Meme Generator
+# Notes App
 
 <a name="readme-top"></a>
 
 <div align="center">
 
-  <h3><b> Meme Generator README</b></h3>
+  <h3><b> Notes App README</b></h3>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 # 📖 React Project <a name="about-project"></a>
 
-The Meme Generator is a React-powered web app that enables users to easily create and customize memes by adding their own top and bottom text to images.
+Experience seamless note-taking with our React-powered app. Create, update, and delete your notes effortlessly while harnessing the power of Firebase's real-time database for a smooth and reliable user experience.
 
 ## 🛠 Built With HTML, CSS and JS <a name="built-with"></a>
 
@@ -68,8 +68,8 @@ Node
 
 ```
 cd my-folder
-git clone git@github.com/Muhammad0602/memes-generator.git
-cd memes-generator
+git clone git@github.com/Muhammad0602/notes-app.git
+cd notes-app
 ```
 
 ### Install
@@ -82,8 +82,18 @@ npm install
 
 ```
 npm run build
-npm start
+npm run dev
 ```
+
+### Firebase Integration
+
+This app uses Firebase as its real-time database to store and manage notes. Firebase offers seamless data synchronization across devices and enables users to create, update, and delete their notes. To set up Firebase for this project, follow these steps:
+
+1. Create a Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/).
+2. Obtain your Firebase configuration credentials.
+3. Replace the placeholders in the `firebase.js` file with your Firebase configuration.
+
+For more information on using Firebase with this app, refer to the [Firebase documentation](https://firebase.google.com/docs/web/setup).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
